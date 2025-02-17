@@ -1,5 +1,19 @@
 ﻿# 🛡️ Secure AI Pipeline: Detecting Data Poisoning in Machine Learning  
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
+![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Matplotlib%20%7C%20Sklearn-green)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/SilverBomb-Gaming/SecureAIpipeline?color=red)  
+![GitHub Last Commit](https://img.shields.io/github/last-commit/SilverBomb-Gaming/SecureAIpipeline)  
+
+## 📖 Table of Contents  
+- [Project Overview](#-secure-ai-pipeline-detecting-data-poisoning-in-machine-learning)  
+- [How It Works](#-how-it-works)  
+- [Data Insights & Visualizations](#-data-insights--visualizations)  
+- [Setup & Run the Project](#-setup--run-the-project)  
+- [Project Structure](#-project-structure)  
+- [Future Improvements](#-future-improvements)  
+- [Author](#-author)  
+
 🚀 **Project Overview**  
 This project explores **data poisoning attacks** on machine learning models and implements **AI security defenses** to detect and mitigate poisoned data.  
 
